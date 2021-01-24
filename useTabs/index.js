@@ -17,7 +17,7 @@ const content = [
   },
 ];
 
-function App() {
+const App = () => {
   const { currentItem, changeItem } = useTabs(0, content);
   return (
     <div className="App">
@@ -27,7 +27,7 @@ function App() {
       <div>{currentItem.content}</div>
     </div>
   );
-}
+};
 
 ReactDOM.render(
   <React.StrictMode>

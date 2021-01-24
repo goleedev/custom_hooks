@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import ReactDOM from "react-dom";
 import useInput from "./useInput";
 
-function App() {
+const App = () => {
   const maxLen = (value) => value.length <= 10;
   const name = useInput("Ms. ", maxLen);
   return (
@@ -11,7 +11,7 @@ function App() {
       <input placeholder="Name" {...name} />
     </div>
   );
-}
+};
 
 ReactDOM.render(
   <React.StrictMode>

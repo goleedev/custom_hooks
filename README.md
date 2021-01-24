@@ -2,17 +2,17 @@
 
 Collection of Reack hooks
 
-- [] useTitle
-- [] useInput
-- [] usePageLeave
-- [] useClick
-- [] useFadeIn
-- [] useFullScreen
-- [] useHover
-- [] useNetwork
-- [] useNotification
-- [] useScroll
-- [] useTabs
-- [] usePreventLeave
-- [] useConfirm
-- [] useAxios
+- [x] useInput
+- [x] useTabs
+- [x] useTitle
+- [x] useClick
+- [ ] usePageLeave
+- [ ] useFadeIn
+- [ ] useFullScreen
+- [ ] useHover
+- [ ] useNetwork
+- [ ] useNotification
+- [ ] useScroll
+- [ ] usePreventLeave
+- [ ] useConfirm
+- [ ] useAxios
