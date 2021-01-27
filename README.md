@@ -11,7 +11,7 @@ Collection of Reack hooks
 - [x] usePreventLeave
 - [x] useBeforeLeave
 - [x] useFadeIn
-- [ ] useNetwork
+- [x] useNetwork
 - [ ] useFullScreen
 - [ ] useNotification
 - [ ] useScroll
