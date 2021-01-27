@@ -10,9 +10,9 @@ Collection of Reack hooks
 - [x] useConfirm
 - [x] usePreventLeave
 - [x] useBeforeLeave
-- [ ] useFadeIn
-- [ ] useFullScreen
+- [x] useFadeIn
 - [ ] useNetwork
+- [ ] useFullScreen
 - [ ] useNotification
 - [ ] useScroll
 - [ ] useAxios
