@@ -14,5 +14,5 @@ Collection of Reack hooks
 - [x] useNetwork
 - [x] useScroll
 - [x] useFullScreen
-- [ ] useNotification
+- [x] useNotification
 - [ ] useAxios
